@@ -1,0 +1,9 @@
+{
+  "framework": null,
+  "installCommand": null,
+  "buildCommand": null,
+  "outputDirectory": "public",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://reissuedocai.lovable.app/$1" }
+  ]
+}
